@@ -1,0 +1,8 @@
+include ./group.pug
+
+mixin category(category)
+  .category(data-key=category.key)
+    h2.name= category.name
+    .groups
+      each group in category.groups
+        +group(group)

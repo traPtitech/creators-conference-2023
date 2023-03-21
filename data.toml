@@ -1,0 +1,458 @@
+updateAt = "2022-04-06T21:15:00"
+
+[[categories]]
+name = "プログラミング系"
+key = "program"
+  [[categories.groups]]
+    name = "無線研究部"
+    key = "ja1yad"
+    desc = "プログラミングやアマチュア無線に取り組んでいます"
+    [categories.groups.details]
+      desc = [
+        "無線研究部では，アマチュア無線・プログラミング・電子工作を中心とした活動をしています。部室には無線や電子工作に関する書籍，パソコン，テレビ，ゲーム機，電子工作のための工具等が揃っており，部員は自由に活動しています。",
+        "興味を持ってくださった方は，下記ホームページ，Twitterで新歓情報をチェックしてみてください！！",
+        "<a href=\"http://www.musenken.net\" target=\"_blank\" rel=\"noopener noreferrer\">無線研究部ホームページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/ja1yad/\" target=\"_blank\" rel=\"noopener noreferrer\">@JA1YAD</a>",
+        "新歓担当メールアドレス（質問などお気軽にどうぞ）：<a href=\"mailto:musenken.shinkan@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">musenken.shinkan@gmail.com</a>"
+      ]
+      img = []
+      slide = [
+        "./images/ja1yad/1.png",
+        "./images/ja1yad/2.png",
+        "./images/ja1yad/3.png",
+        "./images/ja1yad/4.png",
+        "./images/ja1yad/5.png",
+        "./images/ja1yad/6.png",
+        "./images/ja1yad/7.png",
+        "./images/ja1yad/8.png",
+        "./images/ja1yad/9.png",
+        "./images/ja1yad/10.png",
+        "./images/ja1yad/11.png",
+        "./images/ja1yad/12.png",
+        "./images/ja1yad/13.png"
+      ]
+  [[categories.groups]]
+    name = "工大祭実行委員会 ネットワーク局"
+    key = "jizi"
+    desc = "工大祭に向けた技術的な活動をしています"
+    [categories.groups.details]
+      desc = [
+        "新入生の皆さん、ご入学おめでとうございます！<br>毎年10月に開催される東工大の学園祭「工大祭」の運営をしている工大祭実行委員会（通称 JIZI）です。私たちはJIZIの６つある部署のうちの１つ、ネットワーク局です。",
+        "活動は週に２回、毎週水曜日と金曜日に行っています。<br>工大祭公式サイトの作成など工大祭に向けた技術的な活動をしています。初心者でもHTML・CSS・JavaScript・PHPなどを学ぶことができます。技術的なことは難しそうだけれどサイトをデザインするのに興味がある方も大歓迎です！",
+        "また、例年は合宿や遊びを定期的に開き、楽しく活動しています！昨年度はコロナ禍により例年通り行うことはできませんでしたが、合宿が２年ぶりに行われるなど、徐々に対面でのイベントも行われるようになってきています。<br>新歓期には局体験や新歓交流会など様々なイベントを企画しているので、少しでもJIZIに興味を持って下さった方はぜひ参加してみてください！<br>新歓情報の詳細は以下のTwitterやInstagram、公式LINE、新歓サイトから発信しています。<br>委員一同、皆様と一緒に工大祭を創り上げることを楽しみにお待ちしています！",
+        "新歓サイト：<a href=\"https://jizi.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">https://jizi.jp/</a><br>Twitter：<a href=\"https://twitter.com/jizi_tokyotech\" target=\"_blank\" rel=\"noopener noreferrer\">@jizi_tokyotech</a><br>Instagram：<a href=\"https://www.instagram.com/j_i_z_i/\" target=\"_blank\" rel=\"noopener noreferrer\">@j_i_z_i</a><br>LINE@：@672urnoj",
+      ]
+      img = []
+      slide = [
+        "./images/jizi/1.png",
+        "./images/jizi/2.png",
+        "./images/jizi/3.png",
+        "./images/jizi/4.png",
+        "./images/jizi/5.png",
+        "./images/jizi/6.png",
+        "./images/jizi/7.png"
+      ]
+  [[categories.groups]]
+    name = "traP アルゴリズム班"
+    key = "algorithm"
+    desc = "競プロのコンテストへの参加や講習会などを行っています"
+    [categories.groups.details]
+      desc = [
+        "競プロサークルのように、競技プログラミングのコンテストへの参加やアルゴリズムの講習会･解説会、作問などを行っています。",
+        "<a href=\"https://trap.jp/algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/algorithm/1.png",
+        "./images/algorithm/2.png",
+        "./images/algorithm/3.png",
+        "./images/algorithm/4.png",
+        "./images/algorithm/5.png",
+        "./images/algorithm/6.png",
+        "./images/algorithm/7.png",
+        "./images/algorithm/8.png",
+        "./images/algorithm/9.png"
+      ]
+  [[categories.groups]]
+    name = "traP ゲーム班"
+    key = "game"
+    desc = "ゲームの制作や制作したゲームの試遊, アイデア出しを行っています"
+    [categories.groups.details]
+      desc = [
+        "ゲーム班では, テーマに沿ったゲームの制作や制作したゲームの試遊会, ゲームのアイデア出しなど, ゲームの制作に関連した活動を行っています。",
+        "<a href=\"https://trap.jp/game/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/game/1.png",
+        "./images/game/2.png",
+        "./images/game/3.png",
+        "./images/game/4.png",
+        "./images/game/5.png",
+        "./images/game/6.png",
+        "./images/game/7.png"
+      ]
+  [[categories.groups]]
+    name = "traP SysAd班"
+    key = "sysad"
+    desc = "traPで部内サービスの開発・運用を行っております"
+    [categories.groups.details]
+      desc = [
+        "traPで部内サービスの開発・運用を行っております。",
+        "<a href=\"https://trap.jp/sysad/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/sysad/1.png",
+        "./images/sysad/2.png",
+        "./images/sysad/3.png",
+        "./images/sysad/4.png",
+        "./images/sysad/5.png",
+        "./images/sysad/6.png",
+        "./images/sysad/7.png",
+        "./images/sysad/8.png",
+        "./images/sysad/9.png",
+        "./images/sysad/10.png",
+        "./images/sysad/11.png",
+        "./images/sysad/12.png",
+        "./images/sysad/13.png",
+        "./images/sysad/14.png",
+        "./images/sysad/15.png",
+        "./images/sysad/16.png",
+        "./images/sysad/17.png",
+        "./images/sysad/18.png",
+        "./images/sysad/19.png",
+        "./images/sysad/20.png",
+        "./images/sysad/21.png",
+        "./images/sysad/22.png",
+        "./images/sysad/23.png",
+        "./images/sysad/24.png",
+        "./images/sysad/25.png",
+        "./images/sysad/26.png"
+      ]
+
+[[categories]]
+name = "グラフィック系"
+key = "graphics"
+  [[categories.groups]]
+    name = "アニメーション研究会"
+    key = "anime"
+    desc = "唯一の公認アニメーション自主制作サークルです"
+    [categories.groups.details]
+      desc = [
+        "新入生の皆さん、ご入学おめでとうございます。私たちは東工大アニメーション研究会です。",
+        "このサークルではアニメーション制作をメインに行なっています。他にも他大学との合同発表会や、コミックマーケットに出店、アニメ上映会、合宿など様々なイベントがあるサークルとなっています。",
+        "また公認サークルの特権である部室も完備されています。ラノベ、漫画を揃えた本棚にPCやタブレット、モニターにテレビゲーム機やボードゲーム、さらに冷蔵庫やレンジなど暮らせてしまうくらい快適な部屋があります、入部すれば使い放題です、最高ですね☆",
+        "そんな訳で制作を頑張りながらも部室で先輩後輩同期と話したり遊んだりしながら楽しめちゃうサークルとなっています。ぶっちゃけた話文面だけじゃ伝わらないところって色々あると思います、少しでも気になったらTwitterやメールアドレスに連絡ください、部室紹介や制作風景をお見せすることができると思います。",
+        "今年度は状況にもよりますが、簡単なアニメーション制作も講習会で行いたいと思っています、情報に関してはTwitterや新歓Discordを確認してみてくださいね！",
+        "最後になりますが、みなさんの大学生活が充実しますように心から応援しています。",
+        "以上アニメーション研究会でした。",
+        "・<a href=\"https://discord.gg/6ErsQ9STp5\" target=\"_blank\" rel=\"noopener noreferrer\">新歓discord</a><br>※新歓discordは参加した後、まず『はじめに』のチャンネルをご覧ください。<br>・Twitter：<a href=\"https://twitter.com/titech_animeken/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_animeken</a><br>・<a href=\"https://forms.gle/c2DgyMxoZFbYc3PdA\" target=\"_blank\" rel=\"noopener noreferrer\">説明会申請form</a>"
+      ]
+      img = []
+      slide = [
+        "./images/animation/1.png",
+        "./images/animation/2.png",
+        "./images/animation/3.png",
+        "./images/animation/4.png",
+        "./images/animation/5.png",
+        "./images/animation/6.png",
+        "./images/animation/7.png",
+        "./images/animation/8.png",
+        "./images/animation/9.png",
+        "./images/animation/10.png",
+        "./images/animation/11.png",
+        "./images/animation/12.png",
+        "./images/animation/13.png",
+        "./images/animation/14.png",
+        "./images/animation/15.png",
+        "./images/animation/16.png",
+        "./images/animation/17.png",
+        "./images/animation/18.png",
+        "./images/animation/19.png",
+        "./images/animation/20.png",
+        "./images/animation/21.png",
+        "./images/animation/22.png",
+        "./images/animation/23.png",
+        "./images/animation/24.png",
+        "./images/animation/25.png",
+        "./images/animation/26.png"
+      ]
+  [[categories.groups]]
+    name = "デザイン研究会"
+    key = "design"
+    desc = "日常生活を彩る創作活動を行っています"
+    [categories.groups.details]
+      desc = [
+        "私たちデザイン研究会は、手芸、デジタルおよびアナログイラストや切り絵にタイポグラフィ、グラフィックデザインなどのあらゆるジャンルの創作活動を行っているサークルで、ものつくり教育研究支援センターを中心とする、「ものつくりサークル」の１つでもあります。個人または共同での作品制作と、工大祭やデザフェスなどの外部のイベントでの作品の展示・販売を中心に活動しています。また、部会では部員同士が積極的に意見を出し合いながら、イベントに向けた計画や、部会の時間を使った小企画を実施するなど、和気藹々と過ごしています。",
+        "また、基本的にサークル内で活動ジャンルを限定していないため、「ものを作る」ことであれば、最初にあげたジャンル以外でも活動することができます。部室にあるミシンやエアスプレー、カッティングマシンなどは自由に使用できる上に、ものつくりセンターの機材を用いることで、初めてのことでも挑みやすい環境になっています。もちろん、作品だけでなく、日々の過ごし方も自由です。部員一同お待ちしています！",
+        "下記のTwitterのDMやリプなどでも、質問を受け付けていますので、是非気軽に質問してください！！",
+        "Twitter→ <a href=\"https://twitter.com/titechdesignlab/\" target=\"_blank\" rel=\"noopener noreferrer\">@titechdesignlab</a>"
+      ]
+      img = []
+      slide = [
+        "./images/design/1.png",
+        "./images/design/2.png",
+        "./images/design/3.png",
+        "./images/design/4.png",
+        "./images/design/5.png",
+        "./images/design/6.png",
+        "./images/design/7.png",
+        "./images/design/8.png",
+        "./images/design/9.png",
+        "./images/design/10.png",
+        "./images/design/11.png"
+      ]
+  [[categories.groups]]
+    name = "美術部"
+    key = "art"
+    desc = "絵画やデジタル、彫刻や木工など自由に製作しています"
+    [categories.groups.details]
+      desc = [
+        "美術部は油彩、水彩、デジタル、切り絵や彫刻など、さまざまなジャンルの創作活動を行っているサークルです。興味があれば何でも取り組めます！",
+        "定期的な部会などは無くゆるく活動しているので、兼サーしやすく、自分のペースで活動することができます。また、部室にある色々な画材も自由に使えます。",
+        "中高で美術部だった人も大学から何か始めたい人も大歓迎です！美術部の様子や新歓情報を知りたい方はTwitter・HPをチェックしてみてください。Twitterでは美術部についての質問も受け付けているので、ぜひ気軽に質問してください！",
+        "<a href=\"https://tokyotechartclub.org/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a>",
+        "Twitter：<a href=\"https://twitter.com/titech_artclub/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_artclub</a>",
+      ]
+      img = []
+      slide = [
+        "./images/art/1.png",
+        "./images/art/2.png",
+        "./images/art/3.png",
+        "./images/art/4.png",
+        "./images/art/5.png",
+        "./images/art/6.png",
+        "./images/art/7.png",
+      ]
+  [[categories.groups]]
+    name = "traP グラフィック班"
+    key = "graphics"
+    desc = "イラスト・ロゴ・3Dモデル・ドット絵などの創作活動を行っています"
+    [categories.groups.details]
+      desc = [
+        "グラフィック班では、ドット絵、デジタルイラスト、3Dモデル、アナログイラスト、ロゴなど幅広く制作を行っています。",
+        "<a href=\"https://trap.jp/graphics/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/graphics/1.png",
+        "./images/graphics/2.png",
+        "./images/graphics/3.png",
+        "./images/graphics/4.png",
+        "./images/graphics/5.png",
+        "./images/graphics/6.png",
+        "./images/graphics/7.png",
+        "./images/graphics/8.png",
+        "./images/graphics/9.png",
+        "./images/graphics/10.png",
+        "./images/graphics/11.png"
+      ]
+  [[categories.groups]]
+    name = "漫画研究会P-MAN"
+    key = "pman"
+    desc = "東工大公認サークル漫画研究会P-MANです"
+    [categories.groups.details]
+      desc = [
+        "皆さんこんにちは。東工大公認サークル漫画研究会P-MANです。",
+        "P-MANでは主にコミケで頒布する部誌の制作、及び年に二回ほど開催するイラコンなどの活動を行っています。<br>個人での活動も盛んで自主的に制作した作品を対外的に発表している部員もいます。",
+        "部室には漫画やゲーム機、麻雀卓などの娯楽がそろっており講義の合間に暇つぶしに来る部員も多くいます。",
+        "絵を描きたい人もそうでない人も是非見に来てください。",
+        "ウェブサイト：<a href=\"https://pmantitech.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pmantitech.com/</a><br>公式Twitter：<a href=\"https://twitter.com/pman_titech\" target=\"_blank\" rel=\"noopener noreferrer\">@pman_titech</a>",
+      ]
+      img = []
+      slide = [
+        "./images/pman/1.png",
+        "./images/pman/2.png",
+        "./images/pman/3.png",
+        "./images/pman/4.png",
+        "./images/pman/5.png",
+        "./images/pman/6.png",
+        "./images/pman/7.png",
+        "./images/pman/8.png"
+      ]
+
+[[categories]]
+name = "サウンド系"
+key = "sound"
+  [[categories.groups]]
+    name = "Tech-nation Records"
+    key = "technation"
+    desc = "東工大で唯一の作曲(DTM)サークルです"
+    [categories.groups.details]
+      desc = [
+        "Tech-nation Recordsは東工大で唯一の作曲(DTM)サークルです。メンバーそれぞれがPCで自由に曲を作り、CDを焼いて頒布しています。音楽経験の有無に関わらず新規メンバーを募集しています、興味のある方は是非資料をご覧ください！"
+      ]
+      img = []
+      slide = [
+        "./images/technation/1.png",
+        "./images/technation/2.png",
+        "./images/technation/3.png",
+        "./images/technation/4.png",
+        "./images/technation/5.png",
+        "./images/technation/6.png",
+        "./images/technation/7.png",
+        "./images/technation/8.png",
+        "./images/technation/9.png",
+        "./images/technation/10.png",
+        "./images/technation/11.png",
+        "./images/technation/12.png",
+        "./images/technation/13.png",
+        "./images/technation/14.png",
+        "./images/technation/15.png",
+        "./images/technation/16.png",
+        "./images/technation/17.png",
+        "./images/technation/18.png",
+        "./images/technation/19.png",
+        "./images/technation/20.png",
+        "./images/technation/21.png",
+        "./images/technation/22.png"
+      ]
+  [[categories.groups]]
+    name = "traP サウンド班"
+    key = "sound"
+    desc = "PCを用いた音楽制作(DTM : Desktop Music)を行っています"
+    [categories.groups.details]
+      desc = [
+        "PCを用いた音楽制作、通称DTM(Desktop Music)を行い、コンピレーションアルバムやゲーム向けBGM・効果音の制作を行っています。",
+        "<a href=\"https://trap.jp/sound/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/sound/1.png",
+        "./images/sound/2.png",
+        "./images/sound/3.png",
+        "./images/sound/4.png",
+        "./images/sound/5.png",
+        "./images/sound/6.png",
+        "./images/sound/7.png",
+        "./images/sound/8.png",
+        "./images/sound/9.png",
+        "./images/sound/10.png",
+        "./images/sound/11.png",
+        "./images/sound/12.png"
+      ]
+
+[[categories]]
+name = "バイオものづくり系"
+key = "bio"
+  [[categories.groups]]
+    name = "iGEM TokyoTech"
+    key = "igem"
+    desc = "合成生物学の応用法を探求する国際大会に出場してます"
+    [categories.groups.details]
+      desc = [
+        "私達iGEM TokyoTechは、iGEMという合成生物学の国際大会に出席し、結果を残すことを目的に研究を行うサークルです。",
+        "iGEMは、遺伝子工学実験によりユニークな遺伝子組み換え生物を作り出し、その機能や独創性、有意性を競う大会です。合成生物学とは、生物の遺伝子を改変することで人々にとって有益な産物を作ることを目指す生物学分野です。",
+        "難しいように聞こえますが、実際には高校生でも扱える内容が多く、学部生だけで研究を進めています！",
+        "<p>主な活動内容</p><ul><li>遺伝工学実験</li><li>プログラミングでのシミュレーション</li><li>英語でのプレゼンテーション発表準備</li></ul>",
+        "新歓用メールアドレス：<a href=\"mailto:igem2022tokyotech@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">igem2022tokyotech@gmail.com</a>",
+        "公式Twitter：<a href=\"https://twitter.com/igem_tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">@igem_tokyotech</a>",
+        "<a href=\"https://igemtitech.wixsite.com/igem-tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a>",
+        "サークルに参加したい方はもちろん、活動を見学したい方、質問がある方は気軽に公式Twitterまたは新歓用メールアドレスにご連絡ください！"
+      ]
+      img = []
+      slide = [
+        "./images/igem/1.png",
+        "./images/igem/2.png",
+        "./images/igem/3.png",
+        "./images/igem/4.png",
+        "./images/igem/5.png",
+        "./images/igem/6.png",
+        "./images/igem/7.png",
+        "./images/igem/8.png",
+        "./images/igem/9.png",
+        "./images/igem/10.png",
+        "./images/igem/11.png",
+        "./images/igem/12.png",
+        "./images/igem/13.png",
+        "./images/igem/14.png",
+        "./images/igem/15.png",
+        "./images/igem/16.png",
+        "./images/igem/17.png",
+        "./images/igem/18.png",
+        "./images/igem/19.png",
+        "./images/igem/20.png"
+      ]
+
+[[categories]]
+name = "ロボット系"
+key = "robot"
+  [[categories.groups]]
+    name = "ロ技研 アシスト研"
+    key = "assist"
+    desc = "PC用の入力機器を作るHID部門について紹介します"
+    [categories.groups.details]
+      desc = [
+        "アシスト研では，各メンバーが欲しいと思ったものを作っています．",
+        "アシスト研の活動のうち，PC用の入力機器を作るHID部門について紹介します．",
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学 ロボット技術研究会 2022年度新歓特設ページ</a>"
+      ]
+      img = []
+      slide = [
+        "./images/assist/1.png",
+        "./images/assist/2.png",
+        "./images/assist/3.png",
+        "./images/assist/4.png",
+        "./images/assist/5.png",
+        "./images/assist/6.png",
+        "./images/assist/7.png"
+      ]
+  [[categories.groups]]
+    name = "ロ技研 アクア研"
+    key = "aqua"
+    desc = "水中ロボットなど水に関するものつくりをしています"
+    [categories.groups.details]
+      desc = [
+        "水中ロボットなど水に関するものつくりをしています",
+        "Twitter：<a href=\"https://twitter.com/rogy_aqua/\" target=\"_blank\" rel=\"noopener noreferrer\">@rogy_aqua</a>",
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>"
+      ]
+      img = []
+      slide = [
+        "./images/aqua/1.png",
+        "./images/aqua/2.png",
+        "./images/aqua/3.png",
+        "./images/aqua/4.png",
+        "./images/aqua/5.png",
+        "./images/aqua/6.png",
+        "./images/aqua/7.png",
+        "./images/aqua/8.png"
+      ]
+  [[categories.groups]]
+    name = "ロ技研 Maquinista"
+    key = "maquinista"
+    desc = "NHK学生ロボコンに向けてロボットを製作しています"
+    [categories.groups.details]
+      desc = [
+        "Maquinista（マキニスタ）はNHK学生ロボコンという競技会に向けてロボット製作をしています。ロボットの設計製作・回路の製作・プログラミングが主な活動内容です。",
+        "質問などはTwitterや質問箱で受け付けています。公式ブログの新歓特設ページには今後のイベント情報やQ&Aを掲載していますのでこちらもご覧ください。",
+        "公式Twitter：<a href=\"https://twitter.com/maquinista_rbcn/\" target=\"_blank\" rel=\"noopener noreferrer\">@maquinista_rbcn</a>",
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>"
+      ]
+      img = []
+      slide = [
+        "./images/maquinista/1.png",
+        "./images/maquinista/2.png",
+        "./images/maquinista/3.png",
+        "./images/maquinista/4.png",
+        "./images/maquinista/5.png",
+        "./images/maquinista/6.png",
+        "./images/maquinista/7.png",
+        "./images/maquinista/8.png",
+        "./images/maquinista/9.png",
+        "./images/maquinista/10.png",
+        "./images/maquinista/11.png",
+        "./images/maquinista/12.png",
+        "./images/maquinista/13.png",
+        "./images/maquinista/14.png",
+        "./images/maquinista/15.png",
+        "./images/maquinista/16.png",
+        "./images/maquinista/17.png",
+        "./images/maquinista/18.png"
+      ]

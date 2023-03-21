@@ -1,0 +1,22 @@
+mixin group(group)
+  .group-wrapper(data-key=group.key)
+    .group
+      h3.name= group.name
+      p.desc= group.desc
+      button.toggle-details もっと詳しく
+      .details.hidden
+        .inner-wrapper
+          h3= group.name
+          if group.details.slide.length > 0
+            .slides(data-aspect-radio-old=group.details.slide_aspect_ratio_old)
+              each img, i in group.details.slide
+                .slide(is-selected=(i === 0))
+                  noscript.loading-lazy
+                    img(src=img loading="lazy")
+          each img in group.details.img
+            a.img-link
+              noscript.loading-lazy
+                img(src=img.src alt=img.name loading="lazy")
+          each line in group.details.desc
+            p !{line}
+          button.toggle-details 閉じる

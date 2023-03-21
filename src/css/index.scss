@@ -1,0 +1,101 @@
+@import "./header.scss";
+@import "./footer.scss";
+@import "./group.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  -webkit-appearance: none;
+  cursor: pointer;
+  border-width: 1px;
+  border-color: #2a2e25;
+  border-radius: 4px;
+  color: #fefefe;
+  background: #2a2e25;
+  padding: 0.2em 0.6em;
+  font-weight: bold;
+
+  &:hover {
+    color: #2a2e25;
+    background: #fefefe;
+  }
+}
+
+html,
+body {
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Hiragino Sans W3", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  color: #2a2e25;
+  background: linear-gradient(0deg, #f4ffed, #fbfff9);
+}
+
+main {
+  width: 80vw;
+  flex: 1 0;
+  max-width: 1080px;
+  padding: 0 4rem;
+  margin: 0 auto;
+
+  @media screen and (max-width: 480px) {
+    width: 90vw;
+    padding: 0 2rem;
+  }
+
+  .youtube-wrap {
+    .youtube {
+      position: relative;
+      width: 100%;
+      padding-top: 56.25%;
+    }
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100% !important;
+      height: 100% !important;
+      border-radius: 0.5rem;
+    }
+
+    .youtube-link {
+      display: inline-block;
+      width: 100%;
+    }
+
+    button {
+      float: right;
+      margin: 0.5em;
+    }
+  }
+
+  .img-link {
+    width: 100%;
+    margin: 1rem 0;
+    cursor: pointer;
+  }
+
+  .timetable {
+    display: block;
+    width: 100%;
+    min-height: 100px;
+    border-radius: 0.5rem;
+  }
+}
+
+.release {
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
