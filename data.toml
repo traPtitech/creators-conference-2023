@@ -1,4 +1,4 @@
-updateAt = "2022-04-06T21:15:00"
+updateAt = "2022-03-25T223:50:00"
 
 [[categories]]
 name = "プログラミング系"
@@ -13,7 +13,8 @@ key = "program"
         "興味を持ってくださった方は，下記ホームページ，Twitterで新歓情報をチェックしてみてください！！",
         "<a href=\"http://www.musenken.net\" target=\"_blank\" rel=\"noopener noreferrer\">無線研究部ホームページ</a>",
         "公式Twitter：<a href=\"https://twitter.com/ja1yad/\" target=\"_blank\" rel=\"noopener noreferrer\">@JA1YAD</a>",
-        "新歓担当メールアドレス（質問などお気軽にどうぞ）：<a href=\"mailto:musenken.shinkan@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">musenken.shinkan@gmail.com</a>"
+        "新歓担当メールアドレス（質問などお気軽にどうぞ）：<a href=\"mailto:musenken.shinkan@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">musenken.shinkan@gmail.com</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -39,8 +40,8 @@ key = "program"
       desc = [
         "新入生の皆さん、ご入学おめでとうございます！<br>毎年10月に開催される東工大の学園祭「工大祭」の運営をしている工大祭実行委員会（通称 JIZI）です。私たちはJIZIの６つある部署のうちの１つ、ネットワーク局です。",
         "活動は週に２回、毎週水曜日と金曜日に行っています。<br>工大祭公式サイトの作成など工大祭に向けた技術的な活動をしています。初心者でもHTML・CSS・JavaScript・PHPなどを学ぶことができます。技術的なことは難しそうだけれどサイトをデザインするのに興味がある方も大歓迎です！",
-        "また、例年は合宿や遊びを定期的に開き、楽しく活動しています！昨年度はコロナ禍により例年通り行うことはできませんでしたが、合宿が２年ぶりに行われるなど、徐々に対面でのイベントも行われるようになってきています。<br>新歓期には局体験や新歓交流会など様々なイベントを企画しているので、少しでもJIZIに興味を持って下さった方はぜひ参加してみてください！<br>新歓情報の詳細は以下のTwitterやInstagram、公式LINE、新歓サイトから発信しています。<br>委員一同、皆様と一緒に工大祭を創り上げることを楽しみにお待ちしています！",
-        "新歓サイト：<a href=\"https://jizi.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">https://jizi.jp/</a><br>Twitter：<a href=\"https://twitter.com/jizi_tokyotech\" target=\"_blank\" rel=\"noopener noreferrer\">@jizi_tokyotech</a><br>Instagram：<a href=\"https://www.instagram.com/j_i_z_i/\" target=\"_blank\" rel=\"noopener noreferrer\">@j_i_z_i</a><br>LINE@：@672urnoj",
+        "また、例年は合宿や遊びを定期的に開き、楽しく活動しています！<br>新歓期には局体験や新歓交流会など様々なイベントを企画しているので、少しでもJIZIに興味を持って下さった方はぜひ参加してみてください！<br>新歓情報の詳細は以下のTwitterや新歓サイトから発信しています。<br>委員一同、皆様と一緒に工大祭を創り上げることを楽しみにお待ちしています！",
+        "新歓サイト：<a href=\"https://jizi.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">https://jizi.jp/</a><br>Twitter：<a href=\"https://twitter.com/jizi_tokyotech\" target=\"_blank\" rel=\"noopener noreferrer\">@jizi_tokyotech</a>",
       ]
       img = []
       slide = [
@@ -60,7 +61,8 @@ key = "program"
       desc = [
         "競プロサークルのように、競技プログラミングのコンテストへの参加やアルゴリズムの講習会･解説会、作問などを行っています。",
         "<a href=\"https://trap.jp/algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -82,7 +84,8 @@ key = "program"
       desc = [
         "ゲーム班では, テーマに沿ったゲームの制作や制作したゲームの試遊会, ゲームのアイデア出しなど, ゲームの制作に関連した活動を行っています。",
         "<a href=\"https://trap.jp/game/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -102,7 +105,8 @@ key = "program"
       desc = [
         "traPで部内サービスの開発・運用を行っております。",
         "<a href=\"https://trap.jp/sysad/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -150,7 +154,8 @@ key = "graphics"
         "今年度は状況にもよりますが、簡単なアニメーション制作も講習会で行いたいと思っています、情報に関してはTwitterや新歓Discordを確認してみてくださいね！",
         "最後になりますが、みなさんの大学生活が充実しますように心から応援しています。",
         "以上アニメーション研究会でした。",
-        "・<a href=\"https://discord.gg/6ErsQ9STp5\" target=\"_blank\" rel=\"noopener noreferrer\">新歓discord</a><br>※新歓discordは参加した後、まず『はじめに』のチャンネルをご覧ください。<br>・Twitter：<a href=\"https://twitter.com/titech_animeken/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_animeken</a><br>・<a href=\"https://forms.gle/c2DgyMxoZFbYc3PdA\" target=\"_blank\" rel=\"noopener noreferrer\">説明会申請form</a>"
+        "・<a href=\"https://discord.gg/6ErsQ9STp5\" target=\"_blank\" rel=\"noopener noreferrer\">新歓discord</a><br>※新歓discordは参加した後、まず『はじめに』のチャンネルをご覧ください。<br>・Twitter：<a href=\"https://twitter.com/titech_animeken/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_animeken</a><br>・<a href=\"https://forms.gle/c2DgyMxoZFbYc3PdA\" target=\"_blank\" rel=\"noopener noreferrer\">説明会申請form</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -190,7 +195,8 @@ key = "graphics"
         "私たちデザイン研究会は、手芸、デジタルおよびアナログイラストや切り絵にタイポグラフィ、グラフィックデザインなどのあらゆるジャンルの創作活動を行っているサークルで、ものつくり教育研究支援センターを中心とする、「ものつくりサークル」の１つでもあります。個人または共同での作品制作と、工大祭やデザフェスなどの外部のイベントでの作品の展示・販売を中心に活動しています。また、部会では部員同士が積極的に意見を出し合いながら、イベントに向けた計画や、部会の時間を使った小企画を実施するなど、和気藹々と過ごしています。",
         "また、基本的にサークル内で活動ジャンルを限定していないため、「ものを作る」ことであれば、最初にあげたジャンル以外でも活動することができます。部室にあるミシンやエアスプレー、カッティングマシンなどは自由に使用できる上に、ものつくりセンターの機材を用いることで、初めてのことでも挑みやすい環境になっています。もちろん、作品だけでなく、日々の過ごし方も自由です。部員一同お待ちしています！",
         "下記のTwitterのDMやリプなどでも、質問を受け付けていますので、是非気軽に質問してください！！",
-        "Twitter→ <a href=\"https://twitter.com/titechdesignlab/\" target=\"_blank\" rel=\"noopener noreferrer\">@titechdesignlab</a>"
+        "Twitter→ <a href=\"https://twitter.com/titechdesignlab/\" target=\"_blank\" rel=\"noopener noreferrer\">@titechdesignlab</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -217,6 +223,7 @@ key = "graphics"
         "中高で美術部だった人も大学から何か始めたい人も大歓迎です！美術部の様子や新歓情報を知りたい方はTwitter・HPをチェックしてみてください。Twitterでは美術部についての質問も受け付けているので、ぜひ気軽に質問してください！",
         "<a href=\"https://tokyotechartclub.org/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a>",
         "Twitter：<a href=\"https://twitter.com/titech_artclub/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_artclub</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -236,7 +243,8 @@ key = "graphics"
       desc = [
         "グラフィック班では、ドット絵、デジタルイラスト、3Dモデル、アナログイラスト、ロゴなど幅広く制作を行っています。",
         "<a href=\"https://trap.jp/graphics/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -263,6 +271,7 @@ key = "graphics"
         "部室には漫画やゲーム機、麻雀卓などの娯楽がそろっており講義の合間に暇つぶしに来る部員も多くいます。",
         "絵を描きたい人もそうでない人も是非見に来てください。",
         "ウェブサイト：<a href=\"https://pmantitech.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pmantitech.com/</a><br>公式Twitter：<a href=\"https://twitter.com/pman_titech\" target=\"_blank\" rel=\"noopener noreferrer\">@pman_titech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -275,6 +284,41 @@ key = "graphics"
         "./images/pman/7.png",
         "./images/pman/8.png"
       ]
+  [[categories.groups]]
+    name = "TPG制作班"
+    key = "tpg"
+    desc = "TPGはTaki Plaza運営委員会のもと、Taki Plazaを企画運営している学生団体です。"
+    [categories.groups.details]
+      desc = [
+        "TPGはTaki Plaza運営委員会のもと、Taki Plazaを企画運営している学生団体です。"
+        "制作班では、主にTPGが主催するイベントのポスター制作や装飾を行っています。他にも、イベントの様子を撮影して広報としてTaki plaza地下2階階段下のモニターやyoutube用の映像を作成しています。"
+        "活動は週に1回、火曜日に行っています。イベントを主催する班の企画の話し合いに参加したり、制作班内でデザインや映像制作の勉強会を実施しています。"
+        "TPGは4/11(火)～4/14(金)にTaki Plazaで若葉祭を開催します。60以上もの団体が出展する新歓イベントなので、ぜひ足を運んでみてください。4日目には地下2階のギャラリーにて制作班の過去の作品も展示されています。"
+        "2023若葉祭サイト：<a href=\"https://www.tpgd.jp/w-top\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp/w-top</a>"
+        "Hoyaは2021年に広報班のメンバーによりTaki Plazaを拠点に活動する自由をコンセプトにしたフリーペーパーとして創刊されました。"
+        "内容はTPGについて取材することもあれば、班員が思い思いに企画してもよく、自由な雰囲気の紙面が特徴です！"
+        "現在はTPGのプロジェクトとして班に関係なくTPGのメンバーであれば編集に参加することができます。特に企画とデザインが好きなかたにおすすめです。編集の方法も先輩が教えますので未経験でもご安心ください！"
+        "基本週に1回ミーティングをし、各号のコンセプトを練ったり進捗の確認をしたりしています。締め切り直前はかなり忙しくなることも。。。？"
+        "現在4号目となる2022年春号を制作中です。Taki Plazaや図書館においてありますのでみかけた際はぜひお手に取ってご覧ください。"
+        "TPG公式サイト：<a href=\"https://www.tpgd.jp\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp</a>"
+        "Twitter：<a href=\"https://twitter.com/TPGardener\" target=\"_blank\" rel=\"noopener noreferrer\">@TPGardener</a>　Instagram：<a href=\"https://www.instagram.com/taki_plaza_gardener\" target=\"_blank\" rel=\"noopener noreferrer\">@taki_plaza_gardener</a>"
+      ]
+      img = []
+      slide = [
+        "./images/tpg/1.png",
+        "./images/tpg/2.png",
+        "./images/tpg/3.png",
+        "./images/tpg/4.png",
+        "./images/tpg/5.png",
+        "./images/tpg/6.png",
+        "./images/tpg/7.png",
+        "./images/tpg/8.png",
+        "./images/tpg/9.png",
+        "./images/tpg/10.png",
+        "./images/tpg/11.png",
+        "./images/tpg/12.png"
+      ]
+  
 
 [[categories]]
 name = "サウンド系"
@@ -285,7 +329,8 @@ key = "sound"
     desc = "東工大で唯一の作曲(DTM)サークルです"
     [categories.groups.details]
       desc = [
-        "Tech-nation Recordsは東工大で唯一の作曲(DTM)サークルです。メンバーそれぞれがPCで自由に曲を作り、CDを焼いて頒布しています。音楽経験の有無に関わらず新規メンバーを募集しています、興味のある方は是非資料をご覧ください！"
+        "Tech-nation Recordsは東工大で唯一の作曲(DTM)サークルです。メンバーそれぞれがPCで自由に曲を作り、CDを焼いて頒布しています。音楽経験の有無に関わらず新規メンバーを募集しています、興味のある方は是非資料をご覧ください！",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -320,7 +365,8 @@ key = "sound"
       desc = [
         "PCを用いた音楽制作、通称DTM(Desktop Music)を行い、コンピレーションアルバムやゲーム向けBGM・効果音の制作を行っています。",
         "<a href=\"https://trap.jp/sound/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -354,7 +400,8 @@ key = "bio"
         "新歓用メールアドレス：<a href=\"mailto:igem2022tokyotech@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">igem2022tokyotech@gmail.com</a>",
         "公式Twitter：<a href=\"https://twitter.com/igem_tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">@igem_tokyotech</a>",
         "<a href=\"https://igemtitech.wixsite.com/igem-tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a>",
-        "サークルに参加したい方はもちろん、活動を見学したい方、質問がある方は気軽に公式Twitterまたは新歓用メールアドレスにご連絡ください！"
+        "サークルに参加したい方はもちろん、活動を見学したい方、質問がある方は気軽に公式Twitterまたは新歓用メールアドレスにご連絡ください！",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -391,7 +438,8 @@ key = "robot"
       desc = [
         "アシスト研では，各メンバーが欲しいと思ったものを作っています．",
         "アシスト研の活動のうち，PC用の入力機器を作るHID部門について紹介します．",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学 ロボット技術研究会 2022年度新歓特設ページ</a>"
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学 ロボット技術研究会 2022年度新歓特設ページ</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -411,7 +459,8 @@ key = "robot"
       desc = [
         "水中ロボットなど水に関するものつくりをしています",
         "Twitter：<a href=\"https://twitter.com/rogy_aqua/\" target=\"_blank\" rel=\"noopener noreferrer\">@rogy_aqua</a>",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>"
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -433,7 +482,8 @@ key = "robot"
         "Maquinista（マキニスタ）はNHK学生ロボコンという競技会に向けてロボット製作をしています。ロボットの設計製作・回路の製作・プログラミングが主な活動内容です。",
         "質問などはTwitterや質問箱で受け付けています。公式ブログの新歓特設ページには今後のイベント情報やQ&Aを掲載していますのでこちらもご覧ください。",
         "公式Twitter：<a href=\"https://twitter.com/maquinista_rbcn/\" target=\"_blank\" rel=\"noopener noreferrer\">@maquinista_rbcn</a>",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>"
+        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>",
+        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
