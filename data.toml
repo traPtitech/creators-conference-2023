@@ -1,4 +1,4 @@
-updateAt = "2022-03-25T223:50:00"
+updateAt = "2022-03-26T12:10:00"
 
 [[categories]]
 name = "プログラミング系"
@@ -290,17 +290,17 @@ key = "graphics"
     desc = "TPGはTaki Plaza運営委員会のもと、Taki Plazaを企画運営している学生団体です。"
     [categories.groups.details]
       desc = [
-        "TPGはTaki Plaza運営委員会のもと、Taki Plazaを企画運営している学生団体です。"
-        "制作班では、主にTPGが主催するイベントのポスター制作や装飾を行っています。他にも、イベントの様子を撮影して広報としてTaki plaza地下2階階段下のモニターやyoutube用の映像を作成しています。"
-        "活動は週に1回、火曜日に行っています。イベントを主催する班の企画の話し合いに参加したり、制作班内でデザインや映像制作の勉強会を実施しています。"
-        "TPGは4/11(火)～4/14(金)にTaki Plazaで若葉祭を開催します。60以上もの団体が出展する新歓イベントなので、ぜひ足を運んでみてください。4日目には地下2階のギャラリーにて制作班の過去の作品も展示されています。"
-        "2023若葉祭サイト：<a href=\"https://www.tpgd.jp/w-top\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp/w-top</a>"
-        "Hoyaは2021年に広報班のメンバーによりTaki Plazaを拠点に活動する自由をコンセプトにしたフリーペーパーとして創刊されました。"
-        "内容はTPGについて取材することもあれば、班員が思い思いに企画してもよく、自由な雰囲気の紙面が特徴です！"
-        "現在はTPGのプロジェクトとして班に関係なくTPGのメンバーであれば編集に参加することができます。特に企画とデザインが好きなかたにおすすめです。編集の方法も先輩が教えますので未経験でもご安心ください！"
-        "基本週に1回ミーティングをし、各号のコンセプトを練ったり進捗の確認をしたりしています。締め切り直前はかなり忙しくなることも。。。？"
-        "現在4号目となる2022年春号を制作中です。Taki Plazaや図書館においてありますのでみかけた際はぜひお手に取ってご覧ください。"
-        "TPG公式サイト：<a href=\"https://www.tpgd.jp\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp</a>"
+        "TPGはTaki Plaza運営委員会のもと、Taki Plazaを企画運営している学生団体です。",
+        "制作班では、主にTPGが主催するイベントのポスター制作や装飾を行っています。他にも、イベントの様子を撮影して広報としてTaki plaza地下2階階段下のモニターやyoutube用の映像を作成しています。",
+        "活動は週に1回、火曜日に行っています。イベントを主催する班の企画の話し合いに参加したり、制作班内でデザインや映像制作の勉強会を実施しています。",
+        "TPGは4/11(火)～4/14(金)にTaki Plazaで若葉祭を開催します。60以上もの団体が出展する新歓イベントなので、ぜひ足を運んでみてください。4日目には地下2階のギャラリーにて制作班の過去の作品も展示されています。",
+        "2023若葉祭サイト：<a href=\"https://www.tpgd.jp/w-top\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp/w-top</a>",
+        "Hoyaは2021年に広報班のメンバーによりTaki Plazaを拠点に活動する自由をコンセプトにしたフリーペーパーとして創刊されました。",
+        "内容はTPGについて取材することもあれば、班員が思い思いに企画してもよく、自由な雰囲気の紙面が特徴です！",
+        "現在はTPGのプロジェクトとして班に関係なくTPGのメンバーであれば編集に参加することができます。特に企画とデザインが好きなかたにおすすめです。編集の方法も先輩が教えますので未経験でもご安心ください！",
+        "基本週に1回ミーティングをし、各号のコンセプトを練ったり進捗の確認をしたりしています。締め切り直前はかなり忙しくなることも。。。？",
+        "現在4号目となる2022年春号を制作中です。Taki Plazaや図書館においてありますのでみかけた際はぜひお手に取ってご覧ください。",
+        "TPG公式サイト：<a href=\"https://www.tpgd.jp\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tpgd.jp</a>",
         "Twitter：<a href=\"https://twitter.com/TPGardener\" target=\"_blank\" rel=\"noopener noreferrer\">@TPGardener</a>　Instagram：<a href=\"https://www.instagram.com/taki_plaza_gardener\" target=\"_blank\" rel=\"noopener noreferrer\">@taki_plaza_gardener</a>"
       ]
       img = []
