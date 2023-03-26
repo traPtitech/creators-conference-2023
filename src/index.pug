@@ -32,4 +32,7 @@ html(lang="ja")
       #categories(updateAt = updateAt)
         each category in categories
           +category(category)
+      p
+        | ことしの Creators' Conference のハッシュタグは、 #C2_2023 です。
+        a(href="https://publish.twitter.com/?buttonLarge=on&buttonType=HashtagButton&buttonUrl=https%3A%2F%2Fc2-2023.trap.jp&lang=ja&query=https%3A%2F%2Ftwitter.com%2Fhashtag%2FC2_2023%3Ff%3Dlive&widget=Button" target="_blank")
     include includes/footer.pug
