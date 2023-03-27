@@ -453,28 +453,6 @@ key = "robot"
         "./images/assist/7.png"
       ]
   [[categories.groups]]
-    name = "ロ技研 アクア研"
-    key = "aqua"
-    desc = "水中ロボットなど水に関するものつくりをしています"
-    [categories.groups.details]
-      desc = [
-        "水中ロボットなど水に関するものつくりをしています",
-        "Twitter：<a href=\"https://twitter.com/rogy_aqua/\" target=\"_blank\" rel=\"noopener noreferrer\">@rogy_aqua</a>",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>",
-        "<br><br>※昨年度時点の情報です"
-      ]
-      img = []
-      slide = [
-        "./images/aqua/1.png",
-        "./images/aqua/2.png",
-        "./images/aqua/3.png",
-        "./images/aqua/4.png",
-        "./images/aqua/5.png",
-        "./images/aqua/6.png",
-        "./images/aqua/7.png",
-        "./images/aqua/8.png"
-      ]
-  [[categories.groups]]
     name = "ロ技研 Maquinista"
     key = "maquinista"
     desc = "NHK学生ロボコンに向けてロボットを製作しています"
