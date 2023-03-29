@@ -29,6 +29,9 @@ html(lang="ja")
             button YouTubeで開く 2日目
       a.img-link
         img.timetable(src="./images/timetable.jpg")
+      p 
+        | 各団体の情報は昨年度のものの場合があります。提出があり次第更新します。
+        | 変更を表示に反映するために、Cookieの削除が必要な場合があります。
       #categories(updateAt = updateAt)
         each category in categories
           +category(category)
