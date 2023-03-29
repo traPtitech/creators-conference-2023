@@ -319,6 +319,30 @@ key = "graphics"
         "./images/tpg/11.png",
         "./images/tpg/12.png"
       ]
+  [[categories.groups]]
+    name = "工大祭実行委員会 編集局"
+    key = "jizi_editing"
+    desc = "工大祭実行委員会（通称 JIZI）の６つある部署のうちの１つ、編集局です。"
+    [categories.groups.details]
+      desc = [
+        "新入生の皆さん、ご入学おめでとうございます！！<br>毎年10月に開催される東工大の学園祭「工大祭」の運営をしている工大祭実行委員会（通称 JIZI）です。私たちはJIZIの６つある部署のうちの１つ、編集局です。",
+        "編集局では、Adobe Illustrator等を用いたパンフレット・学内向け冊子・ビラの制作を行っています！高度なソフトですが、講習会もあるので未経験でも安心です！局員のほとんどがデザイン初心者でした。手塩をかけて制作したパンフレットが来場者の皆さんの手に渡った達成感は、他ではなかなか味わえないのでしょうか？　",
+        "活動は週に２回、毎週水曜日と金曜日に行っています。忙しい時期は局によって異なりますが、編集局は夏休み〜工大祭直前です。",
+        "仕事だけではなく、年2回の合宿や定期的な局遊び・旅行も毎年企画しています！！比較的女子も多く、ゆるふわで自由な雰囲気も特徴の一つです。",
+        "つまり、デザインをしながら文化祭のワクワクを感じたい方、おすすめです！！",
+        "新歓期には局体験や新歓交流会など様々なイベントを企画しています！直近の局体験は4/12(水),4/19(水)開催です。少しでもJIZIに興味を持って下さった方はぜひ参加してみてください！！<br>新歓情報の詳細は以下のSNSや新歓サイトから発信しています。<br>委員一同、皆様と一緒に工大祭を創り上げることを楽しみにお待ちしています！",
+        "新歓サイト：<a href=\"https://jizi.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">https://jizi.jp/</a><br>Instagram：<a href=\"https://www.instagram.com/j_i_z_i\" target=\"_blank\" rel=\"noopener noreferrer\">@j_i_z_i</a><br>Twitter：<a href=\"https://twitter.com/jizi_tokyotech\" target=\"_blank\" rel=\"noopener noreferrer\">@jizi_tokyotech</a>"
+      ]
+      img = []
+      slide = [
+        "./images/jizi_editing/1.png",
+        "./images/jizi_editing/2.png",
+        "./images/jizi_editing/3.png",
+        "./images/jizi_editing/4.png",
+        "./images/jizi_editing/5.png",
+        "./images/jizi_editing/6.png",
+        "./images/jizi_editing/7.png"
+      ]
   
 
 [[categories]]
