@@ -418,15 +418,9 @@ key = "bio"
     desc = "合成生物学の応用法を探求する国際大会に出場してます"
     [categories.groups.details]
       desc = [
-        "私達iGEM TokyoTechは、iGEMという合成生物学の国際大会に出席し、結果を残すことを目的に研究を行うサークルです。",
-        "iGEMは、遺伝子工学実験によりユニークな遺伝子組み換え生物を作り出し、その機能や独創性、有意性を競う大会です。合成生物学とは、生物の遺伝子を改変することで人々にとって有益な産物を作ることを目指す生物学分野です。",
-        "難しいように聞こえますが、実際には高校生でも扱える内容が多く、学部生だけで研究を進めています！",
-        "<p>主な活動内容</p><ul><li>遺伝工学実験</li><li>プログラミングでのシミュレーション</li><li>英語でのプレゼンテーション発表準備</li></ul>",
-        "新歓用メールアドレス：<a href=\"mailto:igem2022tokyotech@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">igem2022tokyotech@gmail.com</a>",
-        "公式Twitter：<a href=\"https://twitter.com/igem_tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">@igem_tokyotech</a>",
-        "<a href=\"https://igemtitech.wixsite.com/igem-tokyotech/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイト</a>",
-        "サークルに参加したい方はもちろん、活動を見学したい方、質問がある方は気軽に公式Twitterまたは新歓用メールアドレスにご連絡ください！",
-        "<br><br>※昨年度時点の情報です"
+        "iGEM Tokyo Techは合成生物学の研究の成果を競う国際大会(iGEM)に出場する団体です．大腸菌や細胞を使った生命実験，実験の結果を用いたモデリング(機械学習や数理モデル)，他のiGEMチームとの交流会など幅広い活動をしています．",
+        "<p>主な活動内容</p><ul><li>組み換え実験</li><li>プログラミングを用いたデータの解析<ul><li>昨年は，感染症の予測モデルを機械学習を用いて作成しました．</li></ul></li></ul>",
+      
       ]
       img = []
       slide = [
@@ -445,11 +439,7 @@ key = "bio"
         "./images/igem/13.png",
         "./images/igem/14.png",
         "./images/igem/15.png",
-        "./images/igem/16.png",
-        "./images/igem/17.png",
-        "./images/igem/18.png",
-        "./images/igem/19.png",
-        "./images/igem/20.png"
+        "./images/igem/16.png"
       ]
 
 [[categories]]
