@@ -149,14 +149,14 @@ key = "graphics"
     [categories.groups.details]
       desc = [
         "新入生の皆さん、ご入学おめでとうございます。私たちは東工大アニメーション研究会です。",
-        "このサークルではアニメーション制作をメインに行なっています。他にも他大学との合同発表会や、コミックマーケットに出店、アニメ上映会、合宿など様々なイベントがあるサークルとなっています。",
+        "このサークルではアニメーション制作をメインに行なっています。他にも他大学との合同発表会や、コミックマーケットに出店、アニメ上映会、合宿、工大祭の模擬店の出店など様々なイベントがあるサークルとなっています。",
         "また公認サークルの特権である部室も完備されています。ラノベ、漫画を揃えた本棚にPCやタブレット、モニターにテレビゲーム機やボードゲーム、さらに冷蔵庫やレンジなど暮らせてしまうくらい快適な部屋があります、入部すれば使い放題です、最高ですね☆",
-        "そんな訳で制作を頑張りながらも部室で先輩後輩同期と話したり遊んだりしながら楽しめちゃうサークルとなっています。ぶっちゃけた話文面だけじゃ伝わらないところって色々あると思います、少しでも気になったらTwitterやメールアドレスに連絡ください、部室紹介や制作風景をお見せすることができると思います。",
+        "そんな訳で制作を頑張りながらも部室で先輩後輩同期と話したり遊んだりしながら楽しめちゃうサークルとなっています。ぶっちゃけた話文面だけじゃ伝わらないところって色々あると思います、少しでも気になったらTwitterのDMで連絡ください、部室紹介や制作風景をお見せすることができると思います。",
         "今年度は状況にもよりますが、簡単なアニメーション制作も講習会で行いたいと思っています、情報に関してはTwitterや新歓Discordを確認してみてくださいね！",
+        "今年度は対面オリエンテーションや彩色体験会などの新歓イベントをやるので、情報に関してはTwitterを確認してみてください！",
         "最後になりますが、みなさんの大学生活が充実しますように心から応援しています。",
         "以上アニメーション研究会でした。",
-        "・<a href=\"https://discord.gg/6ErsQ9STp5\" target=\"_blank\" rel=\"noopener noreferrer\">新歓discord</a><br>※新歓discordは参加した後、まず『はじめに』のチャンネルをご覧ください。<br>・Twitter：<a href=\"https://twitter.com/titech_animeken/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_animeken</a><br>・<a href=\"https://forms.gle/c2DgyMxoZFbYc3PdA\" target=\"_blank\" rel=\"noopener noreferrer\">説明会申請form</a>",
-        "<br><br>※昨年度時点の情報です"
+        "・Twitter：<a href=\"https://twitter.com/titech_animeken/\" target=\"_blank\" rel=\"noopener noreferrer\">@titech_animeken</a>"
       ]
       img = []
       slide = [
@@ -173,19 +173,7 @@ key = "graphics"
         "./images/animation/11.png",
         "./images/animation/12.png",
         "./images/animation/13.png",
-        "./images/animation/14.png",
-        "./images/animation/15.png",
-        "./images/animation/16.png",
-        "./images/animation/17.png",
-        "./images/animation/18.png",
-        "./images/animation/19.png",
-        "./images/animation/20.png",
-        "./images/animation/21.png",
-        "./images/animation/22.png",
-        "./images/animation/23.png",
-        "./images/animation/24.png",
-        "./images/animation/25.png",
-        "./images/animation/26.png"
+        "./images/animation/14.png"
       ]
   [[categories.groups]]
     name = "デザイン研究会"
