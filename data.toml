@@ -59,10 +59,7 @@ key = "program"
     desc = "競プロのコンテストへの参加や講習会などを行っています"
     [categories.groups.details]
       desc = [
-        "競プロサークルのように、競技プログラミングのコンテストへの参加やアルゴリズムの講習会･解説会、作問などを行っています。",
-        "<a href=\"https://trap.jp/algorithm/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
-        "<br><br>※昨年度時点の情報です"
+        "競プロサークルのように、プログラミングコンテストへの参加やアルゴリズムの講習会･解説会、作問やKaggleなどを行っています。"
       ]
       img = []
       slide = [
@@ -74,7 +71,8 @@ key = "program"
         "./images/algorithm/6.png",
         "./images/algorithm/7.png",
         "./images/algorithm/8.png",
-        "./images/algorithm/9.png"
+        "./images/algorithm/9.png",
+        "./images/algorithm/10.png"
       ]
   [[categories.groups]]
     name = "traP ゲーム班"
