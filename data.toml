@@ -9,12 +9,12 @@ key = "program"
     desc = "プログラミングやアマチュア無線に取り組んでいます"
     [categories.groups.details]
       desc = [
-        "無線研究部では，アマチュア無線・プログラミング・電子工作を中心とした活動をしています。部室には無線や電子工作に関する書籍，パソコン，テレビ，ゲーム機，電子工作のための工具等が揃っており，部員は自由に活動しています。",
-        "興味を持ってくださった方は，下記ホームページ，Twitterで新歓情報をチェックしてみてください！！",
-        "<a href=\"http://www.musenken.net\" target=\"_blank\" rel=\"noopener noreferrer\">無線研究部ホームページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/ja1yad/\" target=\"_blank\" rel=\"noopener noreferrer\">@JA1YAD</a>",
-        "新歓担当メールアドレス（質問などお気軽にどうぞ）：<a href=\"mailto:musenken.shinkan@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">musenken.shinkan@gmail.com</a>",
-        "<br><br>※昨年度時点の情報です"
+        "無線研究部は，アマチュア無線・電子工作・プログラミングを主軸とする技術系サークルです。無線研最大の特徴は，“自由度の高さ”で，他の活動や学業等との両立も容易です。要望に応じた講習会もあり，初心者大歓迎なので，少しでも興味を持っていただいた方は新歓Discordサーバー，Twitter，ホームページで新歓情報をcheckしてください！質問等はTwitterのDMまたは下記メールで受け付けています！",
+        "● リンク
+        "ホームページ：<a href=\"http://www.musenken.net\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.musenken.net</a>",
+        "Twitter新歓アカウント：<a href=\"https://twitter.com/ja1yad_shinkan\" target=\"_blank\" rel=\"noopener noreferrer\">https://twitter.com/ja1yad_shinkan </a>",
+        "メール（新歓担当）：<a href=\"mailto:musenken.shinkan@gmail.com\" target=\"_blank\" rel=\"noopener noreferrer\">musenken.shinkan@gmail.com</a>",
+        "新歓Discordサーバー：<a href=\"https://discord.gg/6EYDZkcXC7\" target=\"_blank\" rel=\"noopener noreferrer\">https://discord.gg/6EYDZkcXC7 "</a>"
       ]
       img = []
       slide = [
@@ -25,12 +25,7 @@ key = "program"
         "./images/ja1yad/5.png",
         "./images/ja1yad/6.png",
         "./images/ja1yad/7.png",
-        "./images/ja1yad/8.png",
-        "./images/ja1yad/9.png",
-        "./images/ja1yad/10.png",
-        "./images/ja1yad/11.png",
-        "./images/ja1yad/12.png",
-        "./images/ja1yad/13.png"
+        "./images/ja1yad/8.png"
       ]
   [[categories.groups]]
     name = "工大祭実行委員会 ネットワーク局"
