@@ -328,6 +328,28 @@ key = "graphics"
         "./images/jizi_editing/5.png",
         "./images/jizi_editing/6.png",
         "./images/jizi_editing/7.png"
+  [[categories.groups]]
+    name = "工大祭実行委員会 広報局"
+    key = "jizi_promotion"
+    desc = "工大祭実行委員会（通称 JIZI）の６つある部署のうちの１つ、広報局です。"
+    [categories.groups.details]
+      desc = [
+        "新入生の皆さん、ご入学おめでとうございます！<br>毎年10月に開催される東工大の学園祭「工大祭」の運営をしている工大祭実行委員会（通称 JIZI）です。私たちはJIZIの６つある部署のうちの１つ、広報局です。",
+        "広報局は、看板やビラ、ポスターなどを製作したり、SNSやYouTubeを利用して工大祭の魅力を発信しているとってもクリエイティブな局です！",
+        "そんな広報局の特徴は、なんといってもAdobe illustratorをはじめとするAdobeのプロ仕様のソフトを実践的に利用することができる点です。"
+      ]
+      img = []
+      slide = [
+        "./images/jizi_promotion/1.png",
+        "./images/jizi_promotion/2.png",
+        "./images/jizi_promotion/3.png",
+        "./images/jizi_promotion/4.png",
+        "./images/jizi_promotion/5.png",
+        "./images/jizi_promotion/6.png",
+        "./images/jizi_promotion/7.png",
+        "./images/jizi_promotion/8.png",
+        "./images/jizi_promotion/9.png",
+        "./images/jizi_promotion/10.png"
       ]
   
 
