@@ -395,7 +395,6 @@ key = "sound"
         "PCを用いた音楽制作、通称DTM(Desktop Music)を行い、コンピレーションアルバムやゲーム向けBGM・効果音の制作を行っています。",
         "<a href=\"https://trap.jp/sound/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
         "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
-        "<br><br>※昨年度時点の情報です"
       ]
       img = []
       slide = [
@@ -409,8 +408,7 @@ key = "sound"
         "./images/sound/8.png",
         "./images/sound/9.png",
         "./images/sound/10.png",
-        "./images/sound/11.png",
-        "./images/sound/12.png"
+        "./images/sound/11.png"
       ]
 
 [[categories]]
