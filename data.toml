@@ -452,13 +452,12 @@ key = "robot"
   [[categories.groups]]
     name = "ロ技研 アシスト研"
     key = "assist"
-    desc = "PC用の入力機器を作るHID部門について紹介します"
+    desc = "自由なものづくりを行い、面白いものを作っています。"
     [categories.groups.details]
       desc = [
-        "アシスト研では，各メンバーが欲しいと思ったものを作っています．",
-        "アシスト研の活動のうち，PC用の入力機器を作るHID部門について紹介します．",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学 ロボット技術研究会 2022年度新歓特設ページ</a>",
-        "<br><br>※昨年度時点の情報です"
+        "Assist研では，自由なものづくりを行い、面白いものを作っています。",
+        "Assist研の活動や、今後の予定について紹介します。",
+        "<a href=\"https://www.rogiken.org/shinkan/2023/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学 ロボット技術研究会 2023年度新歓特設ページ ( https://www.rogiken.org/shinkan/2023/ )</a>"
       ]
       img = []
       slide = [
@@ -468,7 +467,10 @@ key = "robot"
         "./images/assist/4.png",
         "./images/assist/5.png",
         "./images/assist/6.png",
-        "./images/assist/7.png"
+        "./images/assist/7.png",
+        "./images/assist/8.png",
+        "./images/assist/9.png",
+        "./images/assist/10.png",
       ]
   [[categories.groups]]
     name = "ロ技研 Maquinista"
