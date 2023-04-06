@@ -479,8 +479,7 @@ key = "robot"
         "Maquinista（マキニスタ）はNHK学生ロボコンという競技会に向けてロボット製作をしています。ロボットの設計製作・回路の製作・プログラミングが主な活動内容です。",
         "質問などはTwitterや質問箱で受け付けています。公式ブログの新歓特設ページには今後のイベント情報やQ&Aを掲載していますのでこちらもご覧ください。",
         "公式Twitter：<a href=\"https://twitter.com/maquinista_rbcn/\" target=\"_blank\" rel=\"noopener noreferrer\">@maquinista_rbcn</a>",
-        "<a href=\"https://www.rogiken.org/shinkan/2022/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2022年度新歓特設ページ</a>",
-        "<br><br>※昨年度時点の情報です"
+        "<a href=\"https://www.rogiken.org/shinkan/2023/\" target=\"_blank\" rel=\"noopener noreferrer\">東京工業大学ロボット技術研究会 2023年度新歓特設ページ(https://www.rogiken.org/shinkan/2023/)</a>"
       ]
       img = []
       slide = [
@@ -501,5 +500,7 @@ key = "robot"
         "./images/maquinista/15.png",
         "./images/maquinista/16.png",
         "./images/maquinista/17.png",
-        "./images/maquinista/18.png"
+        "./images/maquinista/18.png",
+        "./images/maquinista/19.png",
+        "./images/maquinista/20.png"
       ]
