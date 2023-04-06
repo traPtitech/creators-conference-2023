@@ -98,8 +98,7 @@ key = "program"
       desc = [
         "traPで部内サービスの開発・運用を行っております。",
         "<a href=\"https://trap.jp/sysad/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
-        "<br><br>※昨年度時点の情報です"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
       ]
       img = []
       slide = [
