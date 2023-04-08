@@ -77,8 +77,7 @@ key = "program"
       desc = [
         "ゲーム班では, テーマに沿ったゲームの制作や制作したゲームの試遊会, ゲームのアイデア出しなど, ゲームの制作に関連した活動を行っています。",
         "<a href=\"https://trap.jp/game/\" target=\"_blank\" rel=\"noopener noreferrer\">公式サイトの紹介ページ</a>",
-        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>",
-        "<br><br>※昨年度時点の情報です"
+        "公式Twitter：<a href=\"https://twitter.com/traPtitech\" target=\"_blank\" rel=\"noopener noreferrer\">@traPtitech</a>"
       ]
       img = []
       slide = [
@@ -86,9 +85,7 @@ key = "program"
         "./images/game/2.png",
         "./images/game/3.png",
         "./images/game/4.png",
-        "./images/game/5.png",
-        "./images/game/6.png",
-        "./images/game/7.png"
+        "./images/game/5.png"
       ]
   [[categories.groups]]
     name = "traP SysAd班"
