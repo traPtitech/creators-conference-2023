@@ -356,8 +356,7 @@ key = "sound"
     desc = "東工大で唯一の作曲(DTM)サークルです"
     [categories.groups.details]
       desc = [
-        "Tech-nation Recordsは東工大で唯一の作曲(DTM)サークルです。メンバーそれぞれがPCで自由に曲を作り、CDを焼いて頒布しています。音楽経験の有無に関わらず新規メンバーを募集しています、興味のある方は是非資料をご覧ください！",
-        "<br><br>※昨年度時点の情報です"
+        "Tech-nation Recordsは東工大で唯一の作曲(DTM)サークルです。メンバーそれぞれがPCで自由に曲を作り、CDを焼いて頒布しています。音楽経験の有無に関わらず新規メンバーを募集しています、興味のある方は是非資料をご覧ください！"
       ]
       img = []
       slide = [
@@ -379,10 +378,7 @@ key = "sound"
         "./images/technation/16.png",
         "./images/technation/17.png",
         "./images/technation/18.png",
-        "./images/technation/19.png",
-        "./images/technation/20.png",
-        "./images/technation/21.png",
-        "./images/technation/22.png"
+        "./images/technation/19.png"
       ]
   [[categories.groups]]
     name = "traP サウンド班"
