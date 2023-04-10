@@ -67,7 +67,10 @@ key = "program"
         "./images/algorithm/7.png",
         "./images/algorithm/8.png",
         "./images/algorithm/9.png",
-        "./images/algorithm/10.png"
+        "./images/algorithm/10.png",
+        "./images/algorithm/11.png",
+        "./images/algorithm/12.png",
+        "./images/algorithm/13.png"
       ]
   [[categories.groups]]
     name = "traP ゲーム班"
